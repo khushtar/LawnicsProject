@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "671770322395",
+    "project_id": "camerax-a078c",
+    "storage_bucket": "camerax-a078c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671770322395:android:ff475c026ebb705c15b3fe",
+        "android_client_info": {
+          "package_name": "khushtar.e.camerax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671770322395-1sdb72sk600vh3mb4650aujd5oatt5ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "khushtar.e.camerax",
+            "certificate_hash": "e10542b1052d779eb247e078a54f894c3f0ed0a8"
+          }
+        },
+        {
+          "client_id": "671770322395-b7sjtovi16eld7vv2ciljh252b3gupq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJzT_KKbVX0uXtLWM6GUyB4lawSu-l_KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671770322395-b7sjtovi16eld7vv2ciljh252b3gupq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
